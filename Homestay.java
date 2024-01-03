@@ -15,7 +15,10 @@ class RentalDetails
 	//int phoneNo;
 	//double deposit;
 
-	RentalDetails(){};
+	RentalDetails(){}
+
+    public void Print() {
+    };
 }
 
 public class RentProcess

@@ -14,9 +14,6 @@ class PersonDetails
     }
 }
 
-public class OrderDet
-}
-
 public class OrderDetails
 {
 	public static void OrderDetails()

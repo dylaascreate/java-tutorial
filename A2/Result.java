@@ -10,6 +10,8 @@ class MarksDetails
 {
 	String subject_name1, subject_name2, subject_name3;
 	int MarkSub1, MarkSub2, MarkSub3, Result;
+    public void PrintResult() {
+    }
 }
 
 public class Result
