@@ -1,0 +1,8 @@
+Non-Eligible Candidate:
+Name: fdf
+Age: 40
+Weight: 80.0
+IT literate: n
+Car/Motor License: n
+Qualification: n
+Working Experience: 0 years

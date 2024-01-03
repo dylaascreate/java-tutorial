@@ -1,0 +1,7 @@
+Age: 40
+Weight: 80.0
+Medical History: y
+IT literate: n
+Car/Motor License: n
+Qualification: n
+Working Experience: 0 years

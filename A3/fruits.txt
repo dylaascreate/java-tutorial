@@ -1,0 +1,9 @@
+Category: 1
+Product Name: Lemon
+Product ID: F01
+Product Price: RM10.0/kg
+
+Category: 1
+Product Name: Apple
+Product ID: F02
+Product Price: RM16.0/kg

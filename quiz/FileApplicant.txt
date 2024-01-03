@@ -1,0 +1,7 @@
+Age: 23
+Weight: 58.0
+Medical History: n
+IT literate: y
+Car/Motor License: y
+Qualification: Degree
+Working Experience: 2 years

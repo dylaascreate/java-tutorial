@@ -1,0 +1,10 @@
+
+=== PARKING DETAILS ===
+1. 
+ParkingID= 001
+Status= 1
+TimeIn= 1
+TimeOut= 1
+AmountTime= 1.0 minutes
+Payment= RM 1
+------------------------

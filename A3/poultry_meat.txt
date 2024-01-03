@@ -1,0 +1,9 @@
+Category: 2
+Product Name: Beef
+Product ID: P01
+Product Price: RM25.7/kg
+
+Category: 2
+Product Name: Chicken
+Product ID: P02
+Product Price: RM18.3/kg

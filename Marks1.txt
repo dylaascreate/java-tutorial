@@ -1,0 +1,8 @@
+NAME  | SUBJECT        |  MARKS
+================================
+Ali     Mathematic        80
+Sarah   Bahasa Inggeris   92
+Amni    Bahasa Arab       78
+Kai     History           83
+Wan     Science           99
+Fadh    Mathematic        82

@@ -1,0 +1,231 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Application",
+            "request": "launch",
+            "mainClass": "quiz.Application",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "DisplayProfit",
+            "request": "launch",
+            "mainClass": "A4.DisplayProfit",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OwnerDetails",
+            "request": "launch",
+            "mainClass": "A4.OwnerDetails",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Adding",
+            "request": "launch",
+            "mainClass": "Adding",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "CalculatePrice",
+            "request": "launch",
+            "mainClass": "CalculatePrice",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Calculation",
+            "request": "launch",
+            "mainClass": "Calculation",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "DeleteFile",
+            "request": "launch",
+            "mainClass": "DeleteFile",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "DisplayProfit(1)",
+            "request": "launch",
+            "mainClass": "DisplayProfit",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "FileWrite",
+            "request": "launch",
+            "mainClass": "FileWrite",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "GradePredictionApp",
+            "request": "launch",
+            "mainClass": "GradePredictionApp",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "HomeWorkFour",
+            "request": "launch",
+            "mainClass": "HomeWorkFour",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "NFile",
+            "request": "launch",
+            "mainClass": "NFile",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OptionPaneExample",
+            "request": "launch",
+            "mainClass": "OptionPaneExample",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OrderDetails",
+            "request": "launch",
+            "mainClass": "OrderDetails",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OrderDetails1",
+            "request": "launch",
+            "mainClass": "OrderDetails1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "OwnerDetails(1)",
+            "request": "launch",
+            "mainClass": "OwnerDetails",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ProductDetails1",
+            "request": "launch",
+            "mainClass": "ProductDetails1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ReadProduct",
+            "request": "launch",
+            "mainClass": "ReadProduct",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ReadTextFile",
+            "request": "launch",
+            "mainClass": "ReadTextFile",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Regclub",
+            "request": "launch",
+            "mainClass": "Regclub",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "RegisterProduct",
+            "request": "launch",
+            "mainClass": "RegisterProduct",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "RentProcess",
+            "request": "launch",
+            "mainClass": "RentProcess",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "RentProcess1",
+            "request": "launch",
+            "mainClass": "RentProcess1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Result",
+            "request": "launch",
+            "mainClass": "Result",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Result1",
+            "request": "launch",
+            "mainClass": "Result1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SwingDemo",
+            "request": "launch",
+            "mainClass": "SwingDemo",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "TempCalc",
+            "request": "launch",
+            "mainClass": "TempCalc",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "TotStudent",
+            "request": "launch",
+            "mainClass": "TotStudent",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ass1q1",
+            "request": "launch",
+            "mainClass": "ass1q1",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ass1q2",
+            "request": "launch",
+            "mainClass": "ass1q2",
+            "projectName": "Java_3df404fa"
+        }
+    ]
+}

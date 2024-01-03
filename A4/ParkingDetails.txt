@@ -1,0 +1,42 @@
+
+=== PARKING DETAILS ===
+1. 
+ParkingID= 012
+Status= active
+TimeIn= 12
+TimeOut= 2
+AmountTime= 22.0 minutes
+Payment= RM 1213
+------------------------
+2. 
+ParkingID= 001
+Status= a
+TimeIn= 1
+TimeOut= 1
+AmountTime= 1.0 minutes
+Payment= RM 11
+------------------------
+3. 
+ParkingID= 001
+Status= e
+TimeIn= 12
+TimeOut= 32
+AmountTime= 11.0 minutes
+Payment= RM 2311
+------------------------
+4. 
+ParkingID= 002
+Status= ds
+TimeIn= 2
+TimeOut= 1
+AmountTime= 2.0 minutes
+Payment= RM 1
+------------------------
+5. 
+ParkingID= 002
+Status= dw
+TimeIn= 2
+TimeOut= 1
+AmountTime= 4.0 minutes
+Payment= RM 3
+------------------------

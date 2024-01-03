@@ -1,0 +1,10 @@
+
+=== RENT DETAILS ===
+Name Renter: Ali bin Ahmad
+ICNo: 123456014536
+Address: No 1 Jalan Kepang 5
+PhoneNo: 011-4567893
+HouseID: 001
+MonthPay: 1
+MonthAmount: 150
+Status: Occupied
