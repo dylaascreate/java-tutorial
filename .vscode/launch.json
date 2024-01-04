@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "array.ArrayListExample",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "SAWriteFile",
+            "request": "launch",
+            "mainClass": "array.SAWriteFile",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "StudentArray",
+            "request": "launch",
+            "mainClass": "array.StudentArray",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "ArrayExample",
+            "request": "launch",
+            "mainClass": "array.ArrayExample",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "Application",
             "request": "launch",
             "mainClass": "Application",
