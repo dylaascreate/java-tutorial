@@ -89,6 +89,8 @@ class Application {
          PrintWriter reserveWriter = new PrintWriter(new FileWriter("Reserve.txt"));
          PrintWriter nonEligibleWriter = new PrintWriter(new FileWriter("NonEligible.txt")))
     {
+            writer.write("All Candidate:\n");
+            writer.println("Name: " + Name);
             writer.println("Age: " + Age);
             writer.println("Weight: " + Weight);
             writer.println("Medical History: " + MedHis);
