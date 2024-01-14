@@ -6,6 +6,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "hybridinheritence",
+            "request": "launch",
+            "mainClass": "A5.hybridinheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "HybridInheritance",
+            "request": "launch",
+            "mainClass": "A5.HybridInheritance",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "hierachicalinheritence",
+            "request": "launch",
+            "mainClass": "A5.hierachicalinheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "multilevelinheritence",
+            "request": "launch",
+            "mainClass": "A5.multilevelinheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "singleinheritence",
+            "request": "launch",
+            "mainClass": "A5.singleinheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "array.D",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "HierarchicalInheritance",
+            "request": "launch",
+            "mainClass": "array.HierarchicalInheritance",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "HierachicalInheritence",
+            "request": "launch",
+            "mainClass": "array.HierachicalInheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "hierachicalInheritence",
+            "request": "launch",
+            "mainClass": "array.hierachicalInheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Rabbit",
+            "request": "launch",
+            "mainClass": "array.Rabbit",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Kitten",
+            "request": "launch",
+            "mainClass": "array.Kitten",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "TestInheritence",
+            "request": "launch",
+            "mainClass": "array.TestInheritence",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeUP",
+            "request": "launch",
+            "mainClass": "array.EmployeeUP",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "array.Employee",
+            "projectName": "Java_3df404fa"
+        },
+        {
+            "type": "java",
             "name": "ArrayListExample",
             "request": "launch",
             "mainClass": "array.ArrayListExample",

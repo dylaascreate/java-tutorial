@@ -1,0 +1,10 @@
+
+=== HOUSING DETAILS ===
+
+Type of House= Kondominium
+Address of the House= Maluri, Cheras
+
+Renter Name= Aina
+Phone Number= 0173117853
+IC Number= 10719
+------------------------

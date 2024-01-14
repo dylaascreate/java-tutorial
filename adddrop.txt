@@ -1,0 +1,14 @@
+
+===LECTURER====
+Lecturer Name: Dr. Zara Zia
+Lecturer ID: D48
+------------------------
+
+===STUDENT====
+Student Name: Ahmad
+Matric ID: 01089
+No. course: 1
+Semester: 3
+Group: B
+Subject list: [Mathematic, Science]
+------------------------

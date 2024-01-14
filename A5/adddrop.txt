@@ -1,0 +1,16 @@
+===LECTURER====
+Lecturer Name: Ts. Dr. Alif Satar
+Lecturer ID: Dg47
+------------------------
+
+===STUDENT====
+Student Name: Aminah
+Matric ID: D2012881
+No. course: 1
+Semester: 3
+Group: B
+Subject list: [Mathematic, English]
+------------------------
+
+
+
